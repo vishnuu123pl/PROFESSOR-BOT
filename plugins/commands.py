@@ -69,6 +69,8 @@ async def start(client, message):
                 InlineKeyboardButton(
                     "Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ", url=invite_link.invite_link
                 )
+                ],[ InlineKeyboardButton("🍿 Jᴏɪɴ Oᴜʀ Mᴏᴠɪᴇ Gʀᴏᴜᴘ", url="https://t.me/MOVIE_GROP"),
+                    InlinekeyboardButton("🎥 Jᴏɪɴ BᴀᴄᴋUᴘ Cʜᴀɴɴᴇʟ 🎥", url="https://t.me/wmteams")
             ]
         ]
 
